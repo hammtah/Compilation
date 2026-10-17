@@ -1,0 +1,8 @@
+BEGIN
+Max_1 := 3.34 + 34.67 + 5
+Min_1 := .45 + 5.e12 + 1.e-2;
+Value := 0.0 + 10. + .25 + 2e10 + 5e-3 + 1.23e+2;
+Test1 := .e34;
+READ(a, b, c, d);
+WRITE(b);
+END
